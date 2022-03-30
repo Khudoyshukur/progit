@@ -5,3 +5,4 @@ more line
 =======
 some fixes for file.txt 
 >>>>>>> 3590735 (Some lines added to file.txt)
+lfkdslfjsdlkfjsd 
